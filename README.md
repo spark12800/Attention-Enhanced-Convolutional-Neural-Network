@@ -1,5 +1,9 @@
 # Parametric Channel Attention Module (PCAM)
 
+<p align="center">
+  <img src="pcam_architecture.png" alt="PCAM Architecture" width="600">
+</p>
+
 This repository contains the implementation of **PCAM (Parametric Channel Attention Module)**, a lightweight enhancement to convolutional attention for image classification. PCAM extends CBAM (Woo.et.al, 2017) by replacing fixed design assumptions with **learnable mechanisms** that improve gradient flow and attention focus.
 
 The final architecture integrates:
