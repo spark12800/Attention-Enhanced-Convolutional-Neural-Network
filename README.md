@@ -49,9 +49,6 @@ PCAM replaces the fixed sigmoid with a *learnable-temperature* sigmoid:
 
 This improves trainability and final attention sharpness.
 
-### 3. Spatial Attention (Optional)
-We also test parametric sigmoid in spatial attention, which improves localisation on CIFAR-10 and STL-10.
-
 ---
 
 ## Experiments
