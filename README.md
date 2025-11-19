@@ -103,6 +103,4 @@ PCAM improves optimisation stability:
 
 Lower variance → more stable training → smoother convergence.
 
----
-
 
